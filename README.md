@@ -1,8 +1,6 @@
 # Most Capable Agent System Prompt
 
-**A seed prompt for the most capable agent system you can build today — one that gets better every time it runs.**
-
-Paste this prompt into any strong agent and it will bootstrap a system that writes software, runs research end to end, operates a company, automates workflows, browses the web, controls the desktop — and handles complex multi-month projects autonomously. It learns from every task, failure, and correction, compounds what works, and steadily closes the gap toward doing anything a skilled human can do on a computer.
+This is a prompt that builds the most capable agentic system possible — a self-improving system that can do anything a capable human can do on a computer: write software, conduct scientific research, run a company, automate workflows, browse the web, control the desktop, analyze data, manage operations, and handle complex multi-month projects end to end. It learns from every task, every failure, and every user correction, and gets better over time.
 
 Paste it into [Claude Code](https://code.claude.com/docs/en/overview), [OpenAI Codex](https://openai.com/codex), OpenClaw, OpenCode, OpenHands, the [Claude Agent SDK](https://platform.claude.com/docs/en/agent-sdk/overview), or any similar agent. It will assess its environment, bootstrap itself (even from an empty directory), and start building.
 
